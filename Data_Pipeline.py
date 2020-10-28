@@ -299,4 +299,4 @@ if __name__ == "__main__":
     #Checking the existence of the tables/new data
     sr_table_check(driver,server,database,sr_data)
     tr_table_check(driver,server,database,tr_data)
-    print("All process completed. Have fun!")
+    print("All the processes are completed. Have fun!")
