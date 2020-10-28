@@ -21,4 +21,4 @@ Google Drive Link: https://drive.google.com/drive/folders/1rtgDBrRIhJtMKgYZrnVGZ
 5. For Future developoment, we can try checking the light & road conditions against the Neighbourhood or the Offense type to better understand the cause of the surge in response     time.
 6. Use additional data to udestand the nature of each and every case much better. For Example: Crime data cane be used to better understand why so many cases arise from a 
     particular neighborhood.
-7. We can also use weather data to understan dthe seriousness/legitimacy of the call. Like if the call was related to the weather condition.
+7. We can also use weather data to understand the seriousness/legitimacy of the case. Like if the call was related to the weather condition.
