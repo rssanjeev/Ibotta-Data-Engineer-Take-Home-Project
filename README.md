@@ -4,11 +4,13 @@ This data pipeline is structured in such a way that whenver it is run, it downlo
 
 And the pipeline is designed based on the data that was available in link when it was received. 
 
-Data Google Drive Link: https://drive.google.com/drive/folders/1rtgDBrRIhJtMKgYZrnVGZ4MBG2ru9avP?usp=sharing
+### Note:
+We will be sticking sticking to the database name 'Ibotta' as it has been used in various queries.  I haven't had the time to make it dynamic. 
 
-We will be sticking sticking to the database name 'Ibotta' as it has been used in various queries.  I haven't had the time to make it dynamic.  
+### Data:
+Google Drive Link: https://drive.google.com/drive/folders/1rtgDBrRIhJtMKgYZrnVGZ4MBG2ru9avP?usp=sharing 
 
-For future development consideration:
+### For future development consideration:
 
 1.  More data preprocessing is required, like the case summary is very disorganized. Needs more focus.
 2. The data consists of verying data length limit than that was mentioned on the meta data file. In the future, I would like to automate the process of analysising the 
