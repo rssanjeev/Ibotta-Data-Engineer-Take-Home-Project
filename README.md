@@ -8,4 +8,4 @@ Data Google Drive Link: https://drive.google.com/drive/folders/1rtgDBrRIhJtMKgYZ
 
 We will be sticking sticking to the database name 'Ibotta' as it has been used in various queries.  I haven't had the time to make it dynamic.  
 
-For Future Development Points, Kindly read through the queries (SQL File) that I have designed for the analysis.
+For future development points, kindly read through the queries (SQL File) that I have designed for the analysis.
